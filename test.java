@@ -7,7 +7,7 @@ public class test{
 
           /***--------  Votre code ici  -------------------****/
   
-
+          System.out.print("Bonne vacance");
 
     }
 
