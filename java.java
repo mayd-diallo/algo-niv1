@@ -1,6 +1,6 @@
 /***--------Donner un nom à votre class -------------------****/
 
-public class test{
+public class java{
 
 
     public static void main(String[] args) {
@@ -9,6 +9,7 @@ public class test{
   
           System.out.print("Bonne vacance");
 
-    }
+    }System.out.print("Bonne vacance");
+    
 
 }
