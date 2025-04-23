@@ -9,7 +9,8 @@ public class Nom merci{
 
           /***--------  Votre code ici  -------------------****/
   System.out.print("Bonne vacance");
-  
+
+System.out.print("Bonne vacance");
 
 
     }
