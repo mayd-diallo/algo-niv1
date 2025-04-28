@@ -11,6 +11,7 @@ public class java{
 
           String name = sc.nextLine();
           System.out.print("prenom=" + name); 
+          sc.close();
 
 
 
