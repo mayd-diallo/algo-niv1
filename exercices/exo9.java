@@ -47,8 +47,9 @@ public class exo9 {
         System.out.print("entrez votre mail");
         String email = scanner.nextLine();
         System.out.println("entrez votre mot de passe");
-        String mot de passe = scanner.nextLine();
-        if ("mot de passe correct";"mot de passe incorrect") {
+        String motdepasse = scanner.nextLine();
+        String correct;
+        if (confirm.equals(motdepasse correct)) {
             System.out.println("connexion réussi");
         } else {
             System.out.println("connexion échouée");

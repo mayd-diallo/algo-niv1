@@ -9,3 +9,24 @@
  * 
  * 
 */
+import java.util.Scanner ;
+public class exo10 {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+    
+        int v = 1 ;
+        int f = 0 ; 
+        int score = 0 ; 
+        System.out.println("entrez premiere question");
+        System.out.println("entrez deuxieme question");
+        System.out.println("entrez troisieme question");
+        System.out.println("entrez quatrieme question");
+        System.out.println("entrez cinquieme question");
+        if (v=1,f=0) {
+System.out.println("mauvaise reponse");            
+        }else {
+            System.out.println("bonne reponse");
+        } Scanner close ; 
+    }
+}
