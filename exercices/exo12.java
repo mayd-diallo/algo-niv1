@@ -14,7 +14,7 @@ public class exo12 {
         
         double prixReduit = prixInitial * (1 - reduction / 100.0);
         
-        System.out.println("Prix après réduction de " + reduction + "% ");
+        System.out.println("Prix après réduction de " + reduction + "% = : "+prixReduit+" EUR");
         
     } Scanner close ;
 }

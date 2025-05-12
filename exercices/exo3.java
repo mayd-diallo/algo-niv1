@@ -37,7 +37,7 @@ public class exo3 {
             System.out.println("\nresultat est impair");
         }
         
-        scanner.close();
+        Scanner.close();
     }
 
     
