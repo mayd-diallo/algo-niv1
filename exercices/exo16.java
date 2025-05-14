@@ -55,7 +55,7 @@ public class exo16 {
         System.out.println("Le passager veut-il une classe business (oui/non) ?");
         String business = scanner.nextLine().toLowerCase();
        
-        int placesDisponibles = 50;
+        int placesDisponibles = 50;0.
         System.out.println("Le prix du vol :\n" + prixInitial);
         System.out.println("Nombre de places disponibles :\n" + placesDisponibles);
    

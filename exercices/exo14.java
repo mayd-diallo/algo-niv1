@@ -28,7 +28,7 @@ public class exo14 {
         boolean c = scanner.nextBoolean();
         resultat = a|| (b && !c);
 
-        System.out.println("donnez la valeur de A ou B et non C");
+        System.out.println("resutat:"+ resultat);
         System.out.println();
         scanner.close();
 
