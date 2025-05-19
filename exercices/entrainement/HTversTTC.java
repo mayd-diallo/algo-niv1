@@ -1,4 +1,4 @@
-package caspratiquejalon;
+
 import java.util.Scanner;
 
 /*Avec Print & Scanner : Me faire un code qui convertit un prix HT (Hors Taxe) en prix TTC 

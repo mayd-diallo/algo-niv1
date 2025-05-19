@@ -51,7 +51,7 @@ public class exo20 {
         if (totalVotes > TOTAL_VOTANTS) {
             System.out.println("Erreur : Le total des votes dépasse le nombre de votants !");
             
-        } else if (totalVotes < TOTAL_VOTANTS) {
+        } else if (totalVotes <TOTAL_VOTANTS) {
             votesBlancs = TOTAL_VOTANTS - totalVotes;
             System.out.println("Vous avez " + votesBlancs + " d'abstentions, ils seront compté nul");
         }
