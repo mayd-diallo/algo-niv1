@@ -19,7 +19,7 @@
 import java.util.Scanner; /* Importation de la bibliothèque Java Scanner */
 
 
-public class exo7 { /* Nom de la classe */
+public class exo7correction { /* Nom de la classe */
 
     public static void main(String[] args) { /* Toujours le mettre pour tester votre code */
 

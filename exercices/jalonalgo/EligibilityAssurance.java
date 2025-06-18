@@ -11,7 +11,11 @@ public class EligibilityAssurance {
         
         // Demande des informations
         System.out.println("Vérification d'éligibilité au remplacement de véhicule après accident");
+<<<<<<< HEAD
+        System.out.println();
+=======
         System.out.println("---------------------------------------------------------------");
+>>>>>>> f3613617499527047a176d57e6d06ad4c6264f08
         
         // Vitesse au moment de l'accident
         System.out.print("Rouliez-vous à 130 km/h au moment de l'accident? (oui/non): ");
